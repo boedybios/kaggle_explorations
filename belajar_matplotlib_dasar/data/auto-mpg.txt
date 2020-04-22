@@ -1,0 +1,5 @@
+Autodata from
+
+https://archive.ics.uci.edu/ml/datasets/auto+mpg
+
+modified to add column names to datafile and to convert missing data from `?` -> `nan`
